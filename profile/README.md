@@ -1,30 +1,78 @@
-![](https://media-exp1.licdn.com/dms/image/C4D1BAQGMWKACZYP2zg/company-background_10000/0/1597667388247?e=2147483647&v=beta&t=ob0_PeIYx3p5aPZAn9yNNFBUpHUIjZ_hmqxRT7B3fEo)
+<div align="center">
+  <img src="https://www.mindtech.com.br/static/media/logo.f0685a39.png" alt="Mindtech Logo" width="300"/>
+</div>
 
-# MINDTECH - SOLUÇÕES DIGITAIS
+# MINDTECH - Soluções Digitais em IoT
 
-### DESENVOLVEMOS ESPECIALMENTE PARA VOCÊ
-Somos uma empresa desenvolvedora de tecnologia e inovação, oferecemos soluções como: desenvolvimento de softwares e aplicativos, projetos e integração para *IOT*.
-Aqui você encontra uma consultoria completa
-em *IOT* e inovação tecnológica conforme a sua necessidade.
+> **Design House & IoT** | Transformando ideias em soluções inovadoras desde 2014
 
-Fundada em 2014, a Mindtech possui profissionais altamente qualificados com grande experiência em desenvolvimento de aplicativos, *IOT* e tem como objetivo transformar sua ideia em projetos de qualidade e alto valor.
+## 🚀 Sobre Nós
 
-## Social Media
+A **Mindtech** é uma empresa brasileira especializada no desenvolvimento de soluções completas em **software e hardware**, com forte atuação em **Internet das Coisas (IoT)** e projetos de inovação digital.
 
-<!-- Intagram -->           
-[<img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" alt="instagram" width="50"/>](https://www.instagram.com/mindtechtecnologia/)<!-- Linkedin -->
-[<img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="linkedin" width="50"/>](https://www.linkedin.com/company/mindtech-tecnologia/)<!-- whatsapp -->
-[<img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482352-whatsapp_78680.png" alt="whatsapp" width="50"/>](https://web.whatsapp.com/send?phone=554135387783&text=Ol%C3%A1,%20como%20posso%20ajudar?)<!-- linktree -->
-[<img src="https://leadsdigital.com.br/images/icons/linktree_512px.png" alt="linktree" width="50"/>](https://linktr.ee/mindtechtecnologia)
+Fundada em **2014** em Curitiba/PR, contamos com profissionais altamente qualificados e grande experiência em desenvolvimento, com o objetivo de transformar sua ideia em projetos de qualidade e alto valor.
 
-## Para saber mais acesse: [www.mindtech.com.br](www.mindtech.com.br)
-<!--
+## 💡 Nossos Serviços
 
-**Here are some ideas to get you started:**
+- **📱 Desenvolvimento Web e Mobile** - Aplicações personalizadas para web e mobile, adaptadas às necessidades específicas do seu negócio
+- **🔧 Hardware e Firmware** - Projetos sob medida com foco em eficiência, qualidade e custo-benefício
+- **🗄️ Bancos de Dados** - Criação e arquitetura de databases de acordo com requisitos funcionais
+- **🤖 Machine Learning** - Soluções de aprendizado de máquina customizáveis para diferentes setores
+- **🔗 Integração de Sistemas** - APIs, assistentes de voz (Alexa, Google Home), comunicação M2M
+- **📊 Business Intelligence** - Análise de dados, monitoramento e transformação em informações estratégicas
+- **🌐 Projetos IoT** - Soluções completas de Internet das Coisas para diversos mercados
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 Mercados Atendidos
+
+- 🌾 **Agronegócio**
+- 🏙️ **Cidades Inteligentes**
+- 🏥 **Saúde**
+- 🏭 **Indústria 4.0**
+- 🚗 **Mobilidade**
+- 💡 **Utilidades** (água, luz, gás)
+- 🏠 **Automação Residencial**
+- 📦 **Rastreamento e Logística**
+
+## 🎨 Nossa Metodologia
+
+Utilizamos **Design Thinking** para entender profundamente as necessidades dos clientes e criar soluções inovadoras que superem expectativas:
+
+1. **Empatia** - Compreendemos suas dores e aspirações
+2. **Levantamento** - Definimos requisitos e objetivos
+3. **Planejamento** - Estruturamos a solução ideal
+4. **Desenvolvimento** - Implementamos com qualidade
+5. **Operação** - Garantimos resultados contínuos
+
+## 📞 Contato
+
+**Mindtech Tecnologia Ltda**  
+CNPJ: 20.722.597/0001-95
+
+📍 **Endereço:**  
+Av. Comendador Franco, 1341  
+Fiep - Habitat Senai - Jardim Botânico  
+Curitiba, PR - Brasil
+
+📧 **E-mail:** comercial@mindtech.com.br  
+📱 **Telefone:** (41) 3538-7783
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+[<img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" alt="Instagram" width="50"/>](https://www.instagram.com/mindtechtecnologia/)
+[<img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/company/mindtech-tecnologia/)
+[<img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482352-whatsapp_78680.png" alt="WhatsApp" width="50"/>](https://web.whatsapp.com/send?phone=554135387783&text=Ol%C3%A1,%20como%20posso%20ajudar?)
+[<img src="https://leadsdigital.com.br/images/icons/linktree_512px.png" alt="Linktree" width="50"/>](https://linktr.ee/mindtechtecnologia)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Para saber mais, acesse: [www.mindtech.com.br](https://www.mindtech.com.br)
+
+**Vamos juntos impulsionar a inovação do seu negócio!**
+
+</div>
