@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.mindtech.com.br/static/media/logo.f0685a39.png" alt="Mindtech Logo" width="300"/>
+  <img src="https://mindtech.com.br/branca.svg" alt="Mindtech Logo" width="300"/>
 </div>
 
 # MINDTECH - Soluções Digitais em IoT
